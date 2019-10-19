@@ -14,8 +14,7 @@
 	"h2oFrequency": "Every three years",
 	"user_id": 2,
 	"image": "https://images.unsplash.com/photo-1511635004244-63bfe11a6be8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80"
-}]
-  ],
+}],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
